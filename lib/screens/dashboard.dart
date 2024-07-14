@@ -13,7 +13,15 @@ class Dashboard extends StatelessWidget {
             stops: <double>[0, 1],
           ),
         ),
-        
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(0, 29, 0, 0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              SizedBox(
+                height: 20,
+              ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(25, 0, 36.8, 104),
                 child: Row(

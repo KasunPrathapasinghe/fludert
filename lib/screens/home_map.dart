@@ -172,7 +172,7 @@ class HomeMap extends StatelessWidget {
                               width: constraints.maxWidth * 0.4,
                               child: ElevatedButton(
                                 style: ElevatedButton.styleFrom(
-                                  //primary: Color(0xFF5967E3),
+                                  primary: Color(0xFF5967E3),
                                   padding: EdgeInsets.symmetric(vertical: 15),
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(15),
@@ -200,7 +200,7 @@ class HomeMap extends StatelessWidget {
                               width: constraints.maxWidth * 0.4,
                               child: ElevatedButton(
                                 style: ElevatedButton.styleFrom(
-                                  //primary: Color(0xFF5967E3),
+                                  primary: Color(0xFF5967E3),
                                   padding: EdgeInsets.symmetric(vertical: 15),
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(15),

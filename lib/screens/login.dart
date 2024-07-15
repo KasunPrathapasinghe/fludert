@@ -155,7 +155,7 @@ class Login extends StatelessWidget {
                             0.5, // Adjust this percentage as needed
                         child: ElevatedButton(
                           style: ElevatedButton.styleFrom(
-                            //primary: Color(0xFF5967E3),
+                            primary: Color(0xFF5967E3),
                             padding: EdgeInsets.symmetric(vertical: 15),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(15),
@@ -195,7 +195,7 @@ class Login extends StatelessWidget {
                             0.5, // Adjust this percentage as needed
                         child: ElevatedButton(
                           style: ElevatedButton.styleFrom(
-                          //primary: Color(0xFF5967E3),
+                            primary: Color(0xFF5967E3),
                             padding: EdgeInsets.symmetric(vertical: 15),
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(15),
